@@ -1,0 +1,180 @@
+
+
+------------------------------------
+       ERRORS REPORT - GROUP 3
+------------------------------------
+
+  Record  ------ERROR MESSAGES------  Number  --------RAW DATA---------
+
+          INVALID INV. LETTERS
+          SKU CODE NOT FILLED
+     6    INV. #: XA-600005
+
+          INV. WITH EQUAL LETTERS
+     7    INV. #: AA-700006
+
+          INV. # OUT OF RANGE
+     9    INV. #: EB-900008
+
+          INVALID INV. # FORMAT
+    14    INV. #: EB-1500A3
+
+          INV. WITH EQUAL LETTERS
+    23    INV. #: AA-240108
+
+          INVALID INV. LETTERS
+    24    INV. #: DZ-250109
+
+          SKU CODE NOT FILLED
+    30    INV. #: EB-310212
+
+          INV. WITH EQUAL LETTERS
+    31    INV. #: BB-320015
+
+          TRAN. AMOUNT NOT NUMERIC
+          INVALID PAYMENT TYPE
+    34    INV. #: BA-350001
+
+          INVALID INV. # FORMAT
+    44    INV. #: BC-0S0030
+
+          INV. WITH EQUAL LETTERS
+    45    INV. #: BB-460031
+
+          INVALID TRAN. CODE
+          TRAN. AMOUNT NOT NUMERIC
+    47    INV. #: CA-480033
+
+          SKU CODE NOT FILLED
+    49    INV. #: CD-500122
+
+          INVALID TRAN. CODE
+    51    INV. #: DA-520036
+
+          INVALID PAYMENT TYPE
+    52    INV. #: DB-530037
+
+          SKU CODE NOT FILLED
+    54    INV. #: DE-550212
+
+          INVALID PAYMENT TYPE
+    57    INV. #: EC-580217
+
+          INVALID TRAN. CODE
+    59    INV. #: AB-600219
+
+          INVALID INV. LETTERS
+    63    INV. #: ET-640225
+
+          INV. WITH EQUAL LETTERS
+    64    INV. #: EE-650226
+
+          INV. WITH EQUAL LETTERS
+    72    INV. #: CC-730234
+
+          INVALID PAYMENT TYPE
+    74    INV. #: CE-750335
+
+          INVALID TRAN. CODE
+    75    INV. #: DA-760336
+
+          INVALID STORE NUMBER
+    81    INV. #: EC-810402
+
+          INVALID STORE NUMBER
+    85    INV. #: AD-850408
+
+          INV. WITH EQUAL LETTERS
+    87    INV. #: AA-870410
+
+          INV. # OUT OF RANGE
+    90    INV. #: EA-900413
+
+          INVALID INV. LETTERS
+          INV. # OUT OF RANGE
+    91    INV. #: GB-910401
+
+          INV. WITH EQUAL LETTERS
+          INV. # OUT OF RANGE
+    92    INV. #: CC-920402
+
+          INV. # OUT OF RANGE
+    93    INV. #: ED-930403
+
+          INV. # OUT OF RANGE
+    94    INV. #: AB-940404
+
+          INV. # OUT OF RANGE
+    95    INV. #: AC-950402
+
+          INV. # OUT OF RANGE
+    96    INV. #: AD-960405
+
+          TRAN. AMOUNT NOT NUMERIC
+          INVALID STORE NUMBER
+          INV. # OUT OF RANGE
+    97    INV. #: AE-970406
+
+          INVALID INV. # FORMAT
+    98    INV. #: BA-98S407
+
+          INVALID INV. # FORMAT
+          INV. WITH EQUAL LETTERS
+    99    INV. #: CC-99S508
+
+          SKU CODE NOT FILLED
+   106    INV. #: DB-106512
+
+          TRAN. AMOUNT NOT NUMERIC
+          INVALID PAYMENT TYPE
+   110    INV. #: EC-110501
+
+          INV. WITH EQUAL LETTERS
+   113    INV. #: DD-113524
+
+          TRAN. AMOUNT NOT NUMERIC
+   123    INV. #: DC-123633
+
+          INVALID PAYMENT TYPE
+          INVALID STORE NUMBER
+          INV. WITH EQUAL LETTERS
+          SKU CODE NOT FILLED
+   125    INV. #: EE-125722
+
+          INVALID TRAN. CODE
+   127    INV. #: EB-127636
+
+          INVALID PAYMENT TYPE
+   128    INV. #: EA-128637
+
+          INVALID INV. # FORMAT
+   131    INV. #: AD-131S15
+
+          INVALID PAYMENT TYPE
+   133    INV. #: BA-133617
+
+          INVALID TRAN. CODE
+   135    INV. #: BD-135619
+
+          INV. WITH EQUAL LETTERS
+   136    INV. #: BB-136623
+
+          INV. WITH EQUAL LETTERS
+   143    INV. #: DD-143629
+
+          INVALID INV. # FORMAT
+   149    INV. #: AC-1496N2
+
+          INVALID PAYMENT TYPE
+   150    INV. #: AD-150635
+
+          INVALID TRAN. CODE
+          INVALID STORE NUMBER
+   151    INV. #: AE-151636
+
+          INVALID STORE NUMBER
+   152    INV. #: AB-152637
+
+NUMBER OF RECORDS:         152
+NUMBER OF VALID RECORDS:   100
+NUMBER OF INVALID RECORDS:  52
